@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T14:43:02.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bX179cnsVkaYM-dNlWvT" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T14:45:28.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FooaWlZGxyRLJr2e66Zd" version="16.0.0" type="github">
   <diagram id="Q0INmKHapKx8R0FfWWIw" name="Page-1">
-    <mxGraphModel dx="7007" dy="2683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4503" dy="1542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,6 +357,9 @@
         </mxCell>
         <mxCell id="oPfNsMnwlo6Ig9lXClS0-297" value="Kết thúc chương trình" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1312" y="612" width="160" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="oPfNsMnwlo6Ig9lXClS0-299" value="Kết thúc 1 tiến trình cần xác định xem thùng giặt đã dừng quay chưa. Nhưng mà cách nào đây?" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="424" width="234" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
