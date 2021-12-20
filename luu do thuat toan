@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T07:31:45.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hBn1qfvagOPFQs2P4H7i" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T07:34:31.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xZoB8KyedEh0640s1GYM" version="16.0.0" type="github">
   <diagram id="QuH1rVuKmzF0Q3n6y_Yd" name="Page-1">
     <mxGraphModel dx="510" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
         <mxCell id="czSBp4NvNO0GznoZMbWt-80" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czSBp4NvNO0GznoZMbWt-78" target="czSBp4NvNO0GznoZMbWt-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="czSBp4NvNO0GznoZMbWt-78" value="Đảo quần áo&amp;nbsp;&lt;br&gt;(Đảo chiều mỗi 20s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="czSBp4NvNO0GznoZMbWt-78" value="Đảo quần áo (1&#39;30&#39;&#39;)&lt;br&gt;(Đảo chiều mỗi 20s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="728" y="373" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="czSBp4NvNO0GznoZMbWt-81" value="Y?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
